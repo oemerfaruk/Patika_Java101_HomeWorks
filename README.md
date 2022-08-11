@@ -5,3 +5,6 @@ Bu repo [Java101](https://app.patika.dev/courses/java101) patikasının ödevler
 Ödev kodlarına \src klasöründen erişebilirsiniz.
 ## Ödevler
 + **Vücut Kitle İndeksi Hesaplayan Program** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/VucutKitleIndeksi.java)**
++ **Manav Kasa Programı** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/ManavKasaProgram%C4%B1.java)**
+
+
