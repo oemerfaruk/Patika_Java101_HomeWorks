@@ -7,6 +7,5 @@ Bu repo [Java101](https://app.patika.dev/courses/java101) patikasının ödevler
 + **Vücut Kitle İndeksi Hesaplayan Program** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/VucutKitleIndeksi.java)**
 + **Manav Kasa Programı** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/ManavKasaProgram%C4%B1.java)**
 + **Not Ortalaması Hesaplama Programı** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/NotOrtalamasiHesaplama.java)**
-+ + **KDV Tutarı Hesaplayan Program** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/KDVTutarHesaplayanProgram.java)**
-
-KDV Tutarı Hesaplayan Program
++ **KDV Tutarı Hesaplayan Program** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/KDVTutarHesaplayanProgram.java)**
++ **Hipotenus Bulan Program** *Gitmek için* **[tıkla.](https://github.com/oemerfaruk/Patika_Java101_HomeWorks/blob/master/src/HipotenusBulanProgram.java)**
